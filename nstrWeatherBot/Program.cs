@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            var bot = new Bot("Paste your telegram-bot API key");
+            var bot = new Bot("Enter your telegram bot API here");
             bot.Start();
         }
     }
